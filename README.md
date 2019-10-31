@@ -1,3 +1,3 @@
 # Symbolic regression
 
-A dumbed-down implementation of John Koza's regression analysis.
+A dumbed-down implementation of John Koza's symbolic regression.
