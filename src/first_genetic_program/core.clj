@@ -1,7 +1,7 @@
 ; ; Todos
 ; 1. Make work with any fn, not just numeric functions
 ;    (this most likely requires turning datastructures
-;    numbers so that deltas can be calculated)
+;    into numbers so that deltas can be calculated)
 ; 2. Dynamically try different functions and terminals
 ;    (make these dynamic sets part of the fitness
 ;    evaluation as well)
